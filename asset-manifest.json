@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-rtc-demo/static/css/main.b4ff1958.css",
+    "main.js": "/react-rtc-demo/static/js/main.7a55fce7.js",
+    "index.html": "/react-rtc-demo/index.html",
+    "main.b4ff1958.css.map": "/react-rtc-demo/static/css/main.b4ff1958.css.map",
+    "main.7a55fce7.js.map": "/react-rtc-demo/static/js/main.7a55fce7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4ff1958.css",
+    "static/js/main.7a55fce7.js"
+  ]
+}
